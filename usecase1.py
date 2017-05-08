@@ -1,5 +1,5 @@
 if request.POST:
-    required = {'username', 'email', 'first_name', 'last_name', 'password', 
+    required = {'username', 'email', 'first_name', 'last_name', 'password',
     'address_1', 'city', 'state', 'zip_code'}
     if not (required <= set(request.POST)):
         return render( request, 'profiles/create.html', { 'missing' : required - set(request.POST) } )
