@@ -2,7 +2,7 @@
 //  SignUpViewController.swift
 //  FirebaseTutorial
 //
-//  Created by James Dacombe on 16/11/2016.
+//  Created by Rohit Krishnan on 
 //  Copyright © 2016 AppCoda. All rights reserved.
 //
 
