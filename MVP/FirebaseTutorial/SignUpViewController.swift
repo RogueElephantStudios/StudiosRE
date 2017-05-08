@@ -18,7 +18,5 @@ class SignUpViewController: UIViewController {
     @IBAction func createAccountAction(_ sender: AnyObject) {
       
     }
-    
-    
 }
 
