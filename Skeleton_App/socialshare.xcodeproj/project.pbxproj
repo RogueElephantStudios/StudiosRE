@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4D60D8831EC51D52006AE100 /* QueryCreationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D60D8821EC51D52006AE100 /* QueryCreationView.swift */; };
 		5B117A0D19AE28F200C76EF1 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B117A0C19AE28F200C76EF1 /* HomeViewController.swift */; };
 		5B117A0F19AE374500C76EF1 /* ActivityViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B117A0E19AE374500C76EF1 /* ActivityViewController.swift */; };
 		5B117A1119AE3F0B00C76EF1 /* UploadFileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B117A1019AE3F0B00C76EF1 /* UploadFileViewController.swift */; };
@@ -31,6 +32,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4D60D8821EC51D52006AE100 /* QueryCreationView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = QueryCreationView.swift; path = socialshare/QueryCreationView.swift; sourceTree = SOURCE_ROOT; };
 		5B117A0C19AE28F200C76EF1 /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = SOURCE_ROOT; };
 		5B117A0E19AE374500C76EF1 /* ActivityViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ActivityViewController.swift; sourceTree = "<group>"; };
 		5B117A1019AE3F0B00C76EF1 /* UploadFileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UploadFileViewController.swift; sourceTree = "<group>"; };
@@ -95,6 +97,7 @@
 				5B523CF119AE46ED00C99FF3 /* VideosViewController.swift */,
 				5B1580B319AE4C3900A10FD4 /* PhotoViewController.swift */,
 				5B1580B519AE4E2300A10FD4 /* ElementsViewController.swift */,
+				4D60D8821EC51D52006AE100 /* QueryCreationView.swift */,
 				5B990CB019ACEE4F00F9278A /* Main.storyboard */,
 				5B990CB319ACEE4F00F9278A /* Images.xcassets */,
 				5B990CAA19ACEE4F00F9278A /* Supporting Files */,
@@ -233,6 +236,7 @@
 				5B523CF219AE46ED00C99FF3 /* VideosViewController.swift in Sources */,
 				5B990CAF19ACEE4F00F9278A /* ViewController.swift in Sources */,
 				5B117A1119AE3F0B00C76EF1 /* UploadFileViewController.swift in Sources */,
+				4D60D8831EC51D52006AE100 /* QueryCreationView.swift in Sources */,
 				5B1580B619AE4E2300A10FD4 /* ElementsViewController.swift in Sources */,
 				5B990CAD19ACEE4F00F9278A /* AppDelegate.swift in Sources */,
 				5B1580B419AE4C3900A10FD4 /* PhotoViewController.swift in Sources */,
