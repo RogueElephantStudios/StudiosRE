@@ -2,7 +2,6 @@
 //  ResetPasswordViewController.swift
 //  FirebaseTutorial
 //
-//  
 //  Copyright © 2016 AppCoda. All rights reserved.
 //
 

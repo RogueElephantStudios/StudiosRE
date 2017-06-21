@@ -3,7 +3,7 @@
 //  FirebaseTutorial
 //
 //
-//  Copyright © 2016 AppCoda. All rights reserved.
+//  Copyright © 2017 AppCoda. All rights reserved.
 //
 
 import UIKit
